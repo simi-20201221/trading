@@ -44,3 +44,6 @@
 ### OCO Order
 
 ## Order book
+
+- Seller - Available - Buyer
+- Sell side - Price - Buy side
