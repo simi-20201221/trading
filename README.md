@@ -26,20 +26,12 @@
 ## Basics
 =====
 
-### Understanding the Market
+### [Understanding the Market](./1_understanding-the-market/README.md)
 
-#### Beginner
-
-- [Binance: The Psychology of Market Cycles](https://academy.binance.com/en/articles/the-psychology-of-market-cycles)
-- [Binance: What is a Bull Market?](https://academy.binance.com/en/articles/what-is-a-bull-market)
-- [Binance: What is a Bear Market?](https://academy.binance.com/en/articles/what-is-a-bear-market)
-- [Binance: What is Crypto Market Sentiment?](https://academy.binance.com/en/articles/what-is-crypto-market-sentiment)
-
-#### Advanced
-
-- [Youtube: Market Cycles](https://www.youtube.com/watch?v=_I6_8nN3IX8)
-- [Youtube: What is FUD and what is FOMO?](https://www.youtube.com/watch?v=dasfUZXrMqQ)
-- [Youtube: What is Fear and Greed?](https://www.youtube.com/watch?v=uU2GAn-s2OE)
+- [x] Binance: The Psychology of Market Cycles
+- [x] Binance: What is Crypto Market Sentiment?
+- [x] Technical analysis indicator
+- [x] The 5 Major Cryptocurrency Market Cycles
 
 ### Order Types
 
