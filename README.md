@@ -26,22 +26,21 @@
 ## Basics
 =====
 
-### [Understanding the Market](./1_understanding-the-market/README.md)
+### [Market](./1_market/README.md)
 
 - [x] Binance: The Psychology of Market Cycles
 - [x] Binance: What is Crypto Market Sentiment?
 - [x] Technical analysis indicator
 - [x] The 5 Major Cryptocurrency Market Cycles
 
-### Order Types
 
-- [x] Market Order and Limit Order
-- [x] Stop-loss and Stop-limit order
-- [x] OCO Order
+### [Order](2_order/README.md)
 
-### Order Book
-
-- [Youtube: What is an order book?](https://www.youtube.com/watch?v=u9RIA1uUbAs)
+- [x] Order Types
+  - [x] Market Order and Limit Order
+  - [x] Stop-loss and Stop-limit order
+  - [x] OCO Order
+- [x] Order Book
 
 ### Basic Technical Analysis
 

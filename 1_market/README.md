@@ -1,4 +1,4 @@
-# Understanding the Market
+# Market
 ============
 
 ## References

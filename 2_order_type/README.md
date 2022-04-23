@@ -1,15 +1,18 @@
-# Order Types
+# Order
 =====
 
-# References
+## References
 
 - [Binance: What Is a Market Order?](https://academy.binance.com/en/articles/what-is-a-market-order)
 - [Binance: What Is a Limit Order?](https://academy.binance.com/en/articles/what-is-a-limit-order)
 - [Binance: What is a Stop Limit Order?](https://academy.binance.com/en/articles/what-is-a-stop-limit-order)
 - [Binance: Understanding Different Order Types](https://academy.binance.com/en/articles/understanding-the-different-order-types)
 - [Binance: What Is an OCO Order?](https://academy.binance.com/en/articles/what-is-an-oco-order)
+- [Youtube: What is an order book?](https://www.youtube.com/watch?v=u9RIA1uUbAs)
 
-## Market Order and Limit Order
+## Order Types
+
+### Market Order and Limit Order
 
 - Market Order
   - Purchases an asset at the `market price`
@@ -21,7 +24,7 @@
   - Can be set in advance
   - To place a `limit order`, need to set a `maximum` or `minimum` price willing to `buy` or `sell` an asset
 
-## Stop-loss and Stop-limit order
+### Stop-loss and Stop-limit order
 
 - A `stop-loss` order is a market order that triggers when the market reaches your `stop price`.
   - It’s an order to `buy` or `sell` a `coin` at the `market price` once the coin price `hits` the `stop price` you set.
@@ -38,4 +41,6 @@
     - want to lock unrealized profits or minimize potential losses
     - want to split your orders into smaller limit orders to achieve a dollar-cost-averaging (DCA) effect.
 
-## OCO Order
+### OCO Order
+
+## Order book
