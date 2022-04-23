@@ -35,16 +35,9 @@
 
 ### Order Types
 
-#### Beginner
-
-- [Binance: What Is a Market Order?](https://academy.binance.com/en/articles/what-is-a-market-order)
-- [Binance: What Is a Limit Order?](https://academy.binance.com/en/articles/what-is-a-limit-order)
-- [Binance: What is a Stop Limit Order?](https://academy.binance.com/en/articles/what-is-a-stop-limit-order)
-
-#### Advanced
-
-- [Binance: Understanding Different Order Types](https://academy.binance.com/en/articles/understanding-the-different-order-types)
-- [Binance: What Is an OCO Order?](https://academy.binance.com/en/articles/what-is-an-oco-order)
+- [x] Market Order and Limit Order
+- [x] Stop-loss and Stop-limit order
+- [x] OCO Order
 
 ### Order Book
 
