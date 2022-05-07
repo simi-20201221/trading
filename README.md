@@ -41,32 +41,21 @@
   - [x] Stop-loss and Stop-limit order
   - [x] OCO Order
 - [x] Order Book
+### [Analysis](./3_analysis/README.md)
 
-### Basic Technical Analysis
+- [x] Fundamental Analysis (FA)
+  - [x] Guide to Cryptocurrency Fundamental Analysis
+  - [x] Fundamental analysis indicators, metrics
+  - [x] Tools
+- [x] Technical Analysis (TA)
+  - [x] 7 Common Mistakes in Technical Analysis
+  - [x] 12 Terms Every Crypto Trader Should Know
+  - [x] Indicator
+  - [x] Drawing tools
+  - [x] Candlestick Patterns
+  - [x] Chart Patterns
+  - [x] Market Structure
 
-##### Beginner
-
-- [Binance: What is Technical Analysis?](https://academy.binance.com/en/articles/what-is-technical-analysis)
-- [Binance: 12 Terms any Crypto Trader Should Know](https://academy.binance.com/en/articles/12-terms-every-crypto-trader-should-know)
-- [Binance: A Complete Guide To Cryptocurrency Trading for Beginners](https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners)
-- [Binance: 7 Common Mistakes in Technical Analysis](https://academy.binance.com/en/articles/7-common-mistakes-in-technical-analysis-ta)
-- [Youtube: Technical Analysis for Beginners](https://www.youtube.com/watch?v=rNI166nMAFw)
-
-#### Advanced
-
-- [Youtube: Ultimate Technical Analysis Beginner Guide](https://www.youtube.com/watch?v=ttPGkFAROWk)
-
-### Fundamental Analysis
-
-#### Beginner
-
-- [Binance: A Guide to Cryptocurrency Fundamental Analysis](https://academy.binance.com/en/articles/a-guide-to-cryptocurrency-fundamental-analysis)
-- [3Commas: Fundamental Analysis in Crypto 101](https://3commastutorials.medium.com/fundamental-analysis-in-crypto-101-fb1ddc9e23df)
-
-#### Advanced
-
-- [Investopedia: What is Fundamental Analysis?](https://www.investopedia.com/terms/f/fundamentalanalysis.asp)
-- [Investopedia: When to use Fundamental Analysis?](https://www.investopedia.com/ask/answers/050515/it-better-use-fundamental-analysis-technical-analysis-or-quantitative-analysis-evaluate-longterm.asp#:~:text=Fundamental%20analysis%20is%20most%20often,the%20active%20trading%20of%20stocks.)
 
 ### TradingView
 
