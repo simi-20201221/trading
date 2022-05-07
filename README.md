@@ -57,15 +57,16 @@
   - [x] Market Structure
 
 
-### TradingView
+### [Tools](./4_tools/README.md)
 
-#### Beginners
+- [x] TradingView
+  - [x] Introduction
+  - [x] What does TradingView do?
+  - [x] TradingView in Binance
+  - [x] Understanding the TradingView UI
+  - [x] Drawing
+  - [x] How To Create TA Indicators on TradingView
 
-- [Binance: A Beginners Guide To TradingView](https://academy.binance.com/en/articles/a-beginner-s-guide-to-tradingview)
-
-#### Advanced
-
-- [Youtube: From TradingView Beginner to Expert](https://www.youtube.com/watch?v=iENn5rBHIAo)
 
 ### Practice
 
