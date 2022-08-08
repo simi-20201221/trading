@@ -105,6 +105,22 @@
 11. Anti Money Laundering ([AML](https://academy.binance.com/en/glossary/anti-money-laundering)): Regulations that prevent criminals from hiding their money.
 12. Know Your Customer ([KYC](https://academy.binance.com/en/glossary/know-your-customer)): Regulations that make exchanges verify your identity.
 
+### Support and Resistance
+
+- [Support](https://academy.binance.com/en/glossary/support)
+  - support level
+  - the price continually entered an area where the asset was bought up
+  - a support range was formed as the area was retested multiple times
+  - and since the bears (sellers) were unable to push the price further down, it eventually bounced – potentially starting a new uptrend
+  - Price bouncing in an area of support before a breakout
+  - ![Support](./support.png)
+- [Resistance](https://academy.binance.com/en/glossary/resistance)
+  - resistance level
+  - the price was in a downtrend, but after each bounce, it failed to break through the same area multiple times
+  - the resistance level is formed because the bulls (buyers) were unable to gain control of the market and drive the price higher, causing the downtrend to continue
+  - Price unable to break an area of resistance
+  - ![Resistance](./resistance.png)
+
 ### Indicator
 
 - What is an Indicator
